@@ -1,5 +1,5 @@
 # bankingitproject
-Template for Banking IT Projects
+Sanjeev's Banking IT Projects
 
 Please fork the repository and build your project
 
